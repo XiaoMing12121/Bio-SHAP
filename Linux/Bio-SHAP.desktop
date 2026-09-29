@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Bio-SHAP
+Name[zh_CN]=Bio-SHAP 生信绘图
+Comment=Bioinformatics scientific plotting workbench
+Comment[zh_CN]=生信可视化绘图工作台（火山图/热图/PCA/ROC 等）
+Exec=/opt/Bio-SHAP/Bio-SHAP
+Icon=/opt/Bio-SHAP/desktop/assets/icon.png
+Terminal=false
+Type=Application
+Categories=Science;Biology;Graphics;
+StartupWMClass=Bio-SHAP
